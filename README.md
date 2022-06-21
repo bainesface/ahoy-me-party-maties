@@ -1,2 +1,5 @@
-# ahoy-me-party-maties
-a party for pirates only please
+# Ahoy Party Mateys
+
+A pirate bash!
+
+Walk the plank game
