@@ -1,0 +1,20 @@
+{
+  "name": "ahoy-me-party-maties",
+  "version": "1.0.0",
+  "description": "A pirate bash! Can the dinosaurs come please?",
+  "main": "food.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bainesface/ahoy-me-party-maties.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bainesface/ahoy-me-party-maties/issues"
+  },
+  "homepage": "https://github.com/bainesface/ahoy-me-party-maties#readme"
+}
